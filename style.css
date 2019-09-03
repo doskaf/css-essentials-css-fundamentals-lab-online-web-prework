@@ -33,6 +33,7 @@ nav a {
   float: left;
   background-color: red;
   width: 25%;
+  background-size: 200px;
   text-align: center;
 }
 
